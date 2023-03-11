@@ -1,0 +1,65 @@
+{
+  "Guid": "4F219F7A-3203-420A-A816-D41627A002D3",
+  "valueArray": [
+    {
+      "key": "PageTitle",
+      "value": "Shankar Manoharan",
+      "orderBy": 1
+    },
+    {
+      "key": "LandDistrictVillage",
+      "value": "shankar_editor@scutisoft.com / +91 - 98404-78956",
+      "orderBy": 2
+    },
+    {
+      "key": "LandParcelView",
+      "value": [
+        {"Title":"Project ID","Value":"SLR-41521"},
+        {"Title":"Project Plan","Value":"Battery Based Solar Regular"},
+        {"Title":"Total Roof Top Area","Value":"800 SQFT"},
+        {"Title":"Available Shadow free Space","Value":"350 SQFT"},
+        {"Title":"Solar Panel Capacity","Value":"3 KW"},
+        {"Title":"Budget","Value":"₹ 70,000"},
+        {"Title":"Building Type","Value":"Residential"},
+        {"Title":"Average Electricity Cost","Value":"8 /Unit"},
+        {"Title":"Average Monthly Consumption","Value":" 1000 Unit"},
+        {"Title":"Reguired System","Value":"Grid Tied"},
+        {"Title":"Required Modules","Value":"DCR Solar Panel"},
+        {"Title":"Address","Value":"No:25, Mint Street, Maduravoyal, Chennai-600122."}
+      ],
+      "orderBy": 3
+    },
+    {
+      "key": "IsNewsFeed",
+      "value": false,
+      "orderBy": 4
+    },
+    {
+      "key": "LandParcelId",
+      "value": 1,
+      "orderBy": 5
+    },
+    {
+      "key": "LandImagesList",
+      "value": [
+        {
+          "FolderName": "Land",
+          "ImageFileName": "image_picker2524397327741615226.jpg",
+          "ImagePath": "Land/image_picker2524397327741615226.jpg"
+        },
+        {
+          "FolderName": "Land",
+          "ImageFileName": "image_picker8495652553617100604.jpg",
+          "ImagePath": "Land/image_picker8495652553617100604.jpg"
+        },
+        {
+          "FolderName": "Land",
+          "ImageFileName": "image_picker7361779411310517655.jpg",
+          "ImagePath": "Land/image_picker7361779411310517655.jpg"
+        }
+      ],
+      "orderBy": 6
+    }
+  ]
+}
+

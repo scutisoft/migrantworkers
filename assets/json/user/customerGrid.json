@@ -1,0 +1,21 @@
+{
+  "Guid": "24FEEB47-777D-4277-B2A4-D3066360FFC6",
+  "valueArray": [
+    {
+      "key": "CustomerList",
+      "value": [
+        {
+          "SNO": 1,
+          "CustomerName": "BalaSubramaniyan",
+          "ContactNo": "9092322264",
+          "Address": "28, Bangary Colony, West KK.Nagar, Chennai-78",
+          "ConsultedEngineer": "Madhan",
+          "VisitedOn": "11-03-2023",
+          "DataJson": {
+            "NewsFeedId": 1059
+          }
+        }
+      ]
+    }
+  ]
+}

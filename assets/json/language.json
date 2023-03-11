@@ -1,0 +1,938 @@
+{
+  "LanguagesList": [
+    {
+      "Id": 1,
+      "Text": "English"
+    },
+    {
+      "Id": 2,
+      "Text": "Tamil"
+    }
+  ],
+  "Source": {
+    "LB_1": {
+      "Id": "LB_1",
+      "1": {
+        "Value": "Volunteer",
+        "FontSize":18.0,
+        "FontFamily":"RR"
+      },
+      "2": {
+        "Value": "தன்னார்வலர்",
+        "FontSize":18.0,
+        "FontFamily":"MMR"
+      },
+      "Description": "Landing Page Add Volunteer Button"
+    },
+    "LB_2": {
+      "Id": "LB_2",
+      "1": {
+        "Value": "Login",
+        "FontSize":15.0,
+        "FontFamily":"RR"
+      },
+      "2": {
+        "Value": "உள்நுழை",
+        "FontSize":15.0,
+        "FontFamily":"MMR"
+      },
+      "Description": "Landing Page Login Button"
+    },
+    "LB_3": {
+      "Id": "LB_3",
+      "1": {
+        "Value": "Growing \nPlant",
+        "FontSize":15.0,
+        "FontFamily":"RR"
+      },
+      "2": {
+        "Value": "வளரும் \nசெடி",
+        "FontSize":15.0,
+        "FontFamily":"MMR"
+      },
+      "Description": "Landing Page Growing Plant Info Button at the bottom of the page."
+    },
+    "LB_4": {
+      "Id": "LB_4",
+      "1": {
+        "Value": "Login",
+        "FontSize":15.0,
+        "FontFamily":"RR"
+      },
+      "2": {
+        "Value": "உள்நுழைய",
+        "FontSize":15.0,
+        "FontFamily":"MMR"
+      },
+      "Description": "Login Page Button Text."
+    },
+    "LB_5": {
+      "Id": "LB_5",
+      "1": {
+        "Value": "Your Account",
+        "FontSize":14.0,
+        "FontFamily":"RR"
+      },
+      "2": {
+        "Value": "உங்கள் கணக்கு",
+        "FontSize":14.0,
+        "FontFamily":"MMR"
+      },
+      "Description": "Login Page Your Account Title."
+    },
+    "LB_6": {
+      "Id": "LB_6",
+      "1": "Enter Email",
+      "2": "மின்னஞ்சலை உள்ளிடவும்",
+      "Description": "Login Page Email InputBox HintText."
+    },
+    "LB_7": {
+      "Id": "LB_7",
+      "1": "Enter Password",
+      "2": "கடவுச்சொல்லை உள்ளிடவும்",
+      "Description": "Login Page Password InputBox HintText."
+    },
+    "LB_8": {
+      "Id": "LB_8",
+      "1": "Create Pin",
+      "2": "பின்னை உருவாக்கவும்",
+      "Description": "MPin Page Title."
+    },
+    "LB_9": {
+      "Id": "LB_9",
+      "1": "Reset Pin",
+      "2": "பின்னை மீட்டமைக்கவும்",
+      "Description": "MPin Page Title."
+    },
+    "LB_10": {
+      "Id": "LB_10",
+      "1": "Skip",
+      "2": "தவிர்க்கவும்",
+      "Description": "MPin Page Skip Text."
+    },
+    "LB_11": {
+      "Id": "LB_11",
+      "1": "Enter New Pin",
+      "2": "புதிய பின்னை உள்ளிடவும்",
+      "Description": "MPin Page New Pin Input Box Title."
+    },
+    "LB_12": {
+      "Id": "LB_12",
+      "1": "Confirm New Pin",
+      "2": "புதிய பின்னை உறுதிப்படுத்தவும்",
+      "Description": "MPin Page Skip Text."
+    },
+    "LB_13": {
+      "Id": "LB_13",
+      "1": "Set Pin",
+      "2": "பின்னை அமைக்கவும்",
+      "Description": "MPin Page Set Pin Button Text."
+    },
+    "LB_14": {
+      "Id": "LB_14",
+      "1": "Pin doesn't match...",
+      "2": "பின் பொருந்தவில்லை...",
+      "Description": "MPin Page Pin does not match error message."
+    },
+    "LB_15": {
+      "Id": "LB_15",
+      "1": {
+        "Value": "Login",
+        "FontSize":16.0,
+        "FontFamily":"RB"
+      },
+      "2": {
+        "Value": "உள்நுழைய",
+        "FontSize":16.0,
+        "FontFamily":"MMB"
+      },
+      "Description": "Login Page Title."
+    },
+    "LB_16": {
+      "Id": "LB_16",
+      "1": "Dashboard",
+      "2": "டாஷ்போர்டு",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_17": {
+      "Id": "LB_17",
+      "1": "Home Page",
+      "2": "முகப்பு பக்கம்",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_18": {
+      "Id": "LB_18",
+      "1": "My Profile",
+      "2": "என் சுயவிவரம்",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_19": {
+      "Id": "LB_19",
+      "1": "Donate",
+      "2": "நன்கொடை",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_20": {
+      "Id": "LB_20",
+      "1": "My History",
+      "2": "என் வரலாறு",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_21": {
+      "Id": "LB_21",
+      "1": "My Certificate",
+      "2": "எனது சான்றிதழ்",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_22": {
+      "Id": "LB_22",
+      "1": "Our Events",
+      "2": "எங்கள் நிகழ்வுகள்",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_23": {
+      "Id": "LB_23",
+      "1": "Trees",
+      "2": "மரங்கள்",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_24": {
+      "Id": "LB_24",
+      "1": "Land Parcel",
+      "2": "நிலத்தொகுப்பு",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_25": {
+      "Id": "LB_25",
+      "1": "Notification",
+      "2": "அறிவிப்பு",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_26": {
+      "Id": "LB_26",
+      "1": "Seed Collection",
+      "2": "விதை சேகரிப்பு",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_27": {
+      "Id": "LB_27",
+      "1": "Nursery",
+      "2": "நாற்றுப்பண்ணை (நர்சரி)",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_28": {
+      "Id": "LB_28",
+      "1": "Plantation",
+      "2": "நடவு",
+      "Description": "Navigation Drawer Title"
+    },
+    "LB_29": {
+      "Id": "LB_29",
+      "1": "News & Feeds",
+      "2": "செய்திகள் & ஊட்டங்கள்",
+      "Description": "Home Page News Feed Title"
+    },
+    "LB_30": {
+      "Id": "LB_30",
+      "1": "No Data Available",
+      "2": "தரவு எதுவும் கிடைக்கவில்லை",
+      "Description": "No Data"
+    },
+    "LB_31": {
+      "Id": "LB_31",
+      "1": "Seeds Stock",
+      "2": "விதைகள் இருப்பு",
+      "Description": "Seeds Stock in Dashboard"
+    },
+    "LB_32": {
+      "Id": "LB_32",
+      "1": "Target",
+      "2": "இலக்கு",
+      "Description": "Target in Dashboard"
+    },
+    "LB_33": {
+      "Id": "LB_33",
+      "1": "Edit Profile",
+      "2": "சுயவிவரத்தைத் திருத்து",
+      "Description": "Edit Profile Button in My Profile Page."
+    },
+    "LB_34": {
+      "Id": "LB_34",
+      "1": "Update",
+      "2": "புதுப்பிக்கவும்",
+      "Description": "Update Button Text."
+    },
+    "LB_35": {
+      "Id": "LB_35",
+      "1": "Email",
+      "2": "மின்னஞ்சல்",
+      "Description": "Update Button Text."
+    },
+    "LB_36": {
+      "Id": "LB_36",
+      "1": "Mobile Number",
+      "2": "அலைபேசி எண்",
+      "Description": "Update Button Text."
+    },
+    "LB_37": {
+      "Id": "LB_37",
+      "1": "Password",
+      "2": "கடவுச்சொல்",
+      "Description": "Update Button Text."
+    },
+    "LB_38": {
+      "Id": "LB_38",
+      "1": "LogOut",
+      "2": "வெளியேறு",
+      "Description": "LogOut Button Text."
+    },
+    "LB_39": {
+      "Id": "LB_39",
+      "1": "All Rights Reserved.",
+      "2": "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.",
+      "Description": "LogOut Button Text."
+    },
+    "LB_40": {
+      "Id": "LB_40",
+      "1": "Lac Hectare",
+      "2": "லட்ச ஹெக்டேர்",
+      "Description": "Lac Hectare."
+    },
+    "LB_41": {
+      "Id": "LB_41",
+      "1": "Volunteer Details",
+      "2": "தன்னார்வலர் விவரங்கள்",
+      "Description": "Volunteer Grid Page Title."
+    },
+    "LB_42": {
+      "Id": "LB_42",
+      "1": "Date",
+      "2": "தேதி",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_43": {
+      "Id": "LB_43",
+      "1": "Phone No",
+      "2": "தொலைபேசி எண்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_44": {
+      "Id": "LB_44",
+      "1": "Location",
+      "2": "இடம்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_45": {
+      "Id": "LB_45",
+      "1": "Role",
+      "2": "பயனர் வகை",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_46": {
+      "Id": "LB_46",
+      "1": "Select Work Field",
+      "2": "பணித் துறையைத் தேர்ந்தெடுக்கவும்",
+      "Description": "View Volunteer Drop Down HintText"
+    },
+    "LB_47": {
+      "Id": "LB_47",
+      "1": "Work Field",
+      "2": "வேலை களம்",
+      "Description": "View Volunteer Drop Down LabelText"
+    },
+    "LB_48": {
+      "Id": "LB_48",
+      "1": "Select District",
+      "2": "மாவட்டத்தைத் தேர்ந்தெடுக்கவும்",
+      "Description": "District Drop Down HintText"
+    },
+    "LB_49": {
+      "Id": "LB_49",
+      "1": "District",
+      "2": "மாவட்டம்",
+      "Description": "District Drop Down LabelText"
+    },
+    "LB_50": {
+      "Id": "LB_50",
+      "1": "Select Taluk",
+      "2": "தாலுக்கை தேர்ந்தெடுக்கவும்",
+      "Description": "Taluk Drop Down HintText"
+    },
+    "LB_51": {
+      "Id": "LB_51",
+      "1": "Taluk",
+      "2": "தாலுகா",
+      "Description": "Taluk Drop Down LabelText"
+    },
+    "LB_52": {
+      "Id": "LB_52",
+      "1": "Select Village",
+      "2": "கிராமத்தைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Village Drop Down HintText"
+    },
+    "LB_53": {
+      "Id": "LB_53",
+      "1": "Village",
+      "2": "கிராமம்",
+      "Description": "Village Drop Down LabelText"
+    },
+    "LB_54": {
+      "Id": "LB_54",
+      "1": "Do You Want To Show This News Feed ?",
+      "2": "இந்த செய்தி ஊட்டத்தைக் காட்ட விரும்புகிறீர்களா ?",
+      "Description": "News Feed Check Box Content."
+    },
+    "LB_55": {
+      "Id": "LB_55",
+      "1": "User",
+      "2": "பயனர்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_56": {
+      "Id": "LB_56",
+      "1": "Land Owner",
+      "2": "நில உரிமையாளர்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_57": {
+      "Id": "LB_57",
+      "1": "Land Type",
+      "2": "நில வகை",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_58": {
+      "Id": "LB_58",
+      "1": "Status",
+      "2": "நிலை",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_59": {
+      "Id": "LB_59",
+      "1": "Land In Hectares",
+      "2": "ஹெக்டேர் நிலம்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_60": {
+      "Id": "LB_60",
+      "1": "Form",
+      "2": "படிவம்",
+      "Description": "Form"
+    },
+    "LB_61": {
+      "Id": "LB_61",
+      "1": "Cancel",
+      "2": "ரத்து செய்",
+      "Description": "Cancel Button Text"
+    },
+    "LB_62": {
+      "Id": "LB_62",
+      "1": "Save",
+      "2": "சேமி",
+      "Description": "Save Button Text"
+    },
+    "LB_63": {
+      "Id": "LB_63",
+      "1": "Select Land Type",
+      "2": "நில வகையைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Land Type DropDown Label Text"
+    },
+    "LB_64": {
+      "Id": "LB_64",
+      "1": "Owner / Staff",
+      "2": "உரிமையாளர் / பணியாளர்",
+      "Description": "Owner / Staff Land Parcel Form"
+    },
+    "LB_65": {
+      "Id": "LB_65",
+      "1": "Select Soil Type",
+      "2": "மண் வகையைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Soil Type Dropdown HintText"
+    },
+    "LB_66": {
+      "Id": "LB_66",
+      "1": "Soil Type",
+      "2": "மண் வகை",
+      "Description": "Soil Type Label Text"
+    },
+    "LB_67": {
+      "Id": "LB_67",
+      "1": "Survey Number",
+      "2": "நிலஅளவு எண்",
+      "Description": "Survey Number Label Text"
+    },
+    "LB_68": {
+      "Id": "LB_68",
+      "1": "Hectare",
+      "2": "ஹெக்டேர்",
+      "Description": "Hectare Label Text"
+    },
+    "LB_69": {
+      "Id": "LB_69",
+      "1": "Acre",
+      "2": "ஏக்கர்",
+      "Description": "Acre Label Text"
+    },
+    "LB_70": {
+      "Id": "LB_70",
+      "1": "Land Address",
+      "2": "நில முகவரி",
+      "Description": "Land Address Label Text"
+    },
+    "LB_71": {
+      "Id": "LB_71",
+      "1": "Address",
+      "2": "முகவரி",
+      "Description": "Land Address Label Text"
+    },
+    "LB_72": {
+      "Id": "LB_72",
+      "1": "Select Planting Year",
+      "2": "நடவு ஆண்டைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Planting Year DropDown Hint Text"
+    },
+    "LB_73": {
+      "Id": "LB_73",
+      "1": "Planting Year",
+      "2": "நடவு ஆண்டு",
+      "Description": "Planting Year DropDown Label Text"
+    },
+    "LB_74": {
+      "Id": "LB_74",
+      "1": "Accept",
+      "2": "ஏற்றுக்கொள்",
+      "Description": "Accept Button Text"
+    },
+    "LB_75": {
+      "Id": "LB_75",
+      "1": "Reject",
+      "2": "நிராகரிக்கவும்",
+      "Description": "Reject Button Text"
+    },
+    "LB_76": {
+      "Id": "LB_76",
+      "1": "Yes",
+      "2": "ஆம்",
+      "Description": "Yes Button Text"
+    },
+    "LB_77": {
+      "Id": "LB_77",
+      "1": "No",
+      "2": "இல்லை",
+      "Description": "No Button Text"
+    },
+    "LB_78": {
+      "Id": "LB_78",
+      "1": "Are you sure want to delete ?",
+      "2": "நீங்கள் நிச்சயமாக நீக்க விரும்புகிறீர்களா?",
+      "Description": "Delete Dialog Content Text"
+    },
+    "LB_79": {
+      "Id": "LB_79",
+      "1": "Seed",
+      "2": "விதை",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_80": {
+      "Id": "LB_80",
+      "1": "Name",
+      "2": "பெயர்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_81": {
+      "Id": "LB_81",
+      "1": "Seed Qty",
+      "2": "விதை அளவு",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_82": {
+      "Id": "LB_82",
+      "1": "Seed Collection Details",
+      "2": "விதை சேகரிப்பு விவரங்கள்",
+      "Description": "Seed Form Title"
+    },
+    "LB_83": {
+      "Id": "LB_83",
+      "1": "Select Seed",
+      "2": "விதையைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Seed Form DropDown"
+    },
+    "LB_84": {
+      "Id": "LB_84",
+      "1": "Quantity",
+      "2": "அளவு",
+      "Description": "Seed Form Quantity"
+    },
+    "LB_85": {
+      "Id": "LB_85",
+      "1": "Add",
+      "2": "சேர்க்கவும்",
+      "Description": "Add Button text"
+    },
+    "LB_86": {
+      "Id": "LB_86",
+      "1": "Other Seed Name",
+      "2": "மற்ற விதை பெயர்",
+      "Description": "Seed Form"
+    },
+    "LB_87": {
+      "Id": "LB_87",
+      "1": "Action",
+      "2": "செயல்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_88": {
+      "Id": "LB_88",
+      "1": "Seed Giver Info",
+      "2": "விதை கொடுப்பவர் தகவல்",
+      "Description": "Seed Giver Info"
+    },
+    "LB_89": {
+      "Id": "LB_89",
+      "1": "Upload Image",
+      "2": "படத்தை பதிவேற்றம் செய்யவும்",
+      "Description": "Upload Image"
+    },
+    "LB_90": {
+      "Id": "LB_90",
+      "1": "Choose File",
+      "2": "கோப்பை தேர்ந்தெடுக்கவும்",
+      "Description": "Choose File"
+    },
+    "LB_91": {
+      "Id": "LB_91",
+      "1": "Incharge",
+      "2": "பொறுப்பாளர்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_92": {
+      "Id": "LB_92",
+      "1": "Total Target",
+      "2": "மொத்த இலக்கு",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_93": {
+      "Id": "LB_93",
+      "1": "Total Taken",
+      "2": "மொத்தம் எடுக்கப்பட்டது",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_94": {
+      "Id": "LB_94",
+      "1": "Total Stock",
+      "2": "மொத்த இருப்பு",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_95": {
+      "Id": "LB_95",
+      "1": "Balance Stock",
+      "2": "மீதமுள்ள இருப்பு",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_96": {
+      "Id": "LB_96",
+      "1": "Is there electricity?",
+      "2": "மின்சாரம் இருக்கிறதா?",
+      "Description": "Electricity DropDown"
+    },
+    "LB_97": {
+      "Id": "LB_97",
+      "1": "Electricity",
+      "2": "மின்சாரம்",
+      "Description": "Electricity DropDown"
+    },
+    "LB_98": {
+      "Id": "LB_98",
+      "1": "Select Fencing",
+      "2": "வேலியடைப்பு நிலை?",
+      "Description": "Fencing DropDown"
+    },
+    "LB_99": {
+      "Id": "LB_99",
+      "1": "Fencing",
+      "2": "வேலியடைப்பு",
+      "Description": "Fencing DropDown"
+    },
+    "LB_100": {
+      "Id": "LB_100",
+      "1": "Select Water Facility",
+      "2": "தண்ணீர் வசதியைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Facility DropDown"
+    },
+    "LB_101": {
+      "Id": "LB_101",
+      "1": "Water Facility",
+      "2": "தண்ணீர் வசதி",
+      "Description": "Facility DropDown"
+    },
+    "LB_102": {
+      "Id": "LB_102",
+      "1": "Select Land Ownership",
+      "2": "நில உரிமையைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Land Ownership DropDown"
+    },
+    "LB_103": {
+      "Id": "LB_103",
+      "1": "Land Ownership",
+      "2": "நில உரிமை",
+      "Description": "Land Ownership DropDown"
+    },
+    "LB_104": {
+      "Id": "LB_104",
+      "1": "No of Stocks",
+      "2": "இருப்புகளின் எண்ணிக்கை",
+      "Description": "Nursery Form"
+    },
+    "LB_105": {
+      "Id": "LB_105",
+      "1": "No of Targets",
+      "2": "இலக்குகளின் எண்ணிக்கை",
+      "Description": "Nursery Form"
+    },
+    "LB_106": {
+      "Id": "LB_106",
+      "1": "Select Plant",
+      "2": "தாவரத்தைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Plant DropDown"
+    },
+    "LB_107": {
+      "Id": "LB_107",
+      "1": "Plant",
+      "2": "தாவரம்",
+      "Description": "Plant DropDown"
+    },
+    "LB_108": {
+      "Id": "LB_108",
+      "1": "No of Plants",
+      "2": "தாவரங்களின் எண்ணிக்கை",
+      "Description": "Nursery Form"
+    },
+    "LB_109": {
+      "Id": "LB_109",
+      "1": "Planting",
+      "2": "நடவு",
+      "Description": "Planting"
+    },
+    "LB_110": {
+      "Id": "LB_110",
+      "1": "Plants Taken",
+      "2": "எடுக்கப்பட்ட தாவரங்கள்",
+      "Description": "Plants Taken"
+    },
+    "LB_111": {
+      "Id": "LB_111",
+      "1": "Pick Location",
+      "2": "இருப்பிடத்தைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Pick Location"
+    },
+    "LB_112": {
+      "Id": "LB_112",
+      "1": "Approved",
+      "2": "அங்கீகரிக்கப்பட்டது",
+      "Description": "Approved"
+    },
+    "LB_113": {
+      "Id": "LB_113",
+      "1": "No of Trees",
+      "2": "மரங்களின் எண்ணிக்கை",
+      "Description": "No of Trees"
+    },
+    "LB_114": {
+      "Id": "LB_114",
+      "1": "Tree",
+      "2": "மரம்",
+      "Description": "Tree"
+    },
+    "LB_115": {
+      "Id": "LB_115",
+      "1": "Place",
+      "2": "இடம்",
+      "Description": "Place"
+    },
+    "LB_116": {
+      "Id": "LB_116",
+      "1": "Plant Grow Bag & Size",
+      "2": "செடி வளரும் பை & அளவு",
+      "Description": "Bag Material & Size"
+    },
+    "LB_117": {
+      "Id": "LB_117",
+      "1": "Select Bag Material & Size",
+      "2": "செடி வளரும் பை & அளவைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Bag Material & Size"
+    },
+    "LB_118": {
+      "Id": "LB_118",
+      "1": "Select Nursery",
+      "2": "நாற்றுப்பண்ணையைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Nursery Drop Down"
+    },
+    "LB_119": {
+      "Id": "LB_119",
+      "1": "Cr",
+      "2": "கோடி",
+      "Description": "Crore"
+    },
+    "LB_120": {
+      "Id": "LB_120",
+      "1": "Total",
+      "2": "மொத்த",
+      "Description": "Total"
+    },
+    "LB_121": {
+      "Id": "LB_121",
+      "1": "Zone",
+      "2": "மண்டலம்",
+      "Description": "Zone"
+    },
+    "LB_122": {
+      "Id": "LB_122",
+      "1": "Watch Video",
+      "2": "வீடியோவை பார்க்கவும்",
+      "Description": "Watch Video"
+    },
+    "LB_123": {
+      "Id": "LB_123",
+      "1": "Volunteer Information",
+      "2": "தன்னார்வலர் தகவல்",
+      "Description": "Volunteer Information"
+    },
+    "LB_124": {
+      "Id": "LB_124",
+      "1": "NGO",
+      "2": "என்.ஜி.ஓ",
+      "Description": "NGO"
+    },
+    "LB_125": {
+      "Id": "LB_125",
+      "1": "Individual",
+      "2": "தனிப்பட்ட",
+      "Description": "Individual"
+    },
+    "LB_126": {
+      "Id": "LB_126",
+      "1": "Select Interest",
+      "2": "ஆர்வத்தைத் தேர்ந்தெடுக்கவும்",
+      "Description": "Select Interest"
+    },
+    "LB_127": {
+      "Id": "LB_127",
+      "1": "Interest",
+      "2": "ஆர்வம்",
+      "Description": "Interest"
+    },
+    "LB_128": {
+      "Id": "LB_128",
+      "1": "Pincode",
+      "2": "அஞ்சல் குறியீடு",
+      "Description": "Pincode"
+    },
+    "LB_129": {
+      "Id": "LB_129",
+      "1": "Submit",
+      "2": "சமர்ப்பிக்கவும்",
+      "Description": "Submit"
+    },
+    "LB_130": {
+      "Id": "LB_130",
+      "1": "Our Policy",
+      "2": "எங்கள் கொள்கை",
+      "Description": "Our Policy"
+    },
+    "LB_131": {
+      "Id": "LB_131",
+      "1": "It is the policy of this organisation to provide equal opportunities without regard to race, color, religion, state origin, gender, age, or disability.",
+      "2": "இனம், நிறம், மதம், மாநில தோற்றம், பாலினம், வயது, ஊனம் போன்றவற்றைப் பொருட்படுத்தாமல் சம வாய்ப்புகளை வழங்குவது இந்த அமைப்பின் கொள்கையாகும்.",
+      "Description": "PolicyContent1 Add Volunteer"
+    },
+    "LB_132": {
+      "Id": "LB_132",
+      "1": "Thank you for completing this registration form and for your interest in associating with EcoGreenFoundation (Regd.) NGO.",
+      "2": "இந்தப் பதிவுப் படிவத்தைப் பூர்த்தி செய்ததற்கும், EcoGreenFoundation (Regd.) NGO உடன் தொடர்புகொள்வதில் உங்கள் ஆர்வத்திற்கும் நன்றி.",
+      "Description": "PolicyContent2 Add Volunteer"
+    },
+    "LB_133": {
+      "Id": "LB_133",
+      "1": "Today, I take pledge of keeping my nation clean & beautiful with EcoGreenFoundation (Regd.) NGO !!",
+      "2": "இன்று, நான் EcoGreenFoundation (Regd.) NGO மூலம் எனது தேசத்தை சுத்தமாகவும் அழகாகவும் வைத்திருப்பதாக உறுதிமொழி எடுக்கிறேன்!!",
+      "Description": "PolicyContent3 Add Volunteer"
+    },
+    "LB_134": {
+      "Id": "LB_134",
+      "1": "Please Accept Our Policy...",
+      "2": "தயவுசெய்து எங்கள் கொள்கையை ஏற்றுக்கொள்ளுங்கள்...",
+      "Description": "Accept Policy Alert Add Volunteer"
+    },
+    "LB_135": {
+      "Id": "LB_135",
+      "1": "Required",
+      "2": "கட்டாயம் தேவை",
+      "Description": "Required"
+    },
+    "LB_136": {
+      "Id": "LB_136",
+      "1": "Do you want to enable Fingerprint Authentication?",
+      "2": "கைரேகை அங்கீகாரத்தை இயக்க விரும்புகிறீர்களா?",
+      "Description": "fingerPrintContent"
+    },
+    "LB_137": {
+      "Id": "LB_137",
+      "1": "Welcome Back...",
+      "2": "மீண்டும் வருக...",
+      "Description": "Welcome Back..."
+    },
+    "LB_138": {
+      "Id": "LB_138",
+      "1": "Enter Pin",
+      "2": "பின்னை உள்ளிடவும்",
+      "Description": "Enter Pin"
+    },
+    "LB_139": {
+      "Id": "LB_139",
+      "1": "Login with Email",
+      "2": "மின்னஞ்சல் மூலம் உள்நுழைக",
+      "Description": "Login with Email"
+    },
+    "LB_140": {
+      "Id": "LB_140",
+      "1": "Search",
+      "2": "தேடல்",
+      "Description": "Search"
+    },
+    "LB_141": {
+      "Id": "LB_141",
+      "1": "Description",
+      "2": "விளக்கம்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_142": {
+      "Id": "LB_142",
+      "1": "Add News Feed",
+      "2": "செய்தி ஊட்டத்தைச் சேர்க்கவும்",
+      "Description": "News Feed Add Form Title"
+    },
+    "LB_143": {
+      "Id": "LB_143",
+      "1": "Add News Feed Details",
+      "2": "செய்தி ஊட்ட விவரங்களைச் சேர்க்கவும்",
+      "Description": "News Feed Add Form Title2"
+    },
+    "LB_144": {
+      "Id": "LB_144",
+      "1": "Event Name",
+      "2": "நிகழ்வின் பெயர்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_145": {
+      "Id": "LB_145",
+      "1": "Event Place",
+      "2": "நிகழ்வு இடம்",
+      "Description": "Grid Card Column Name."
+    },
+    "LB_146": {
+      "Id": "LB_146",
+      "1": "Interested People",
+      "2": "ஆர்வமுள்ள மக்கள்",
+      "Description": "Event Interested Grid Page title"
+    }
+  }
+}
